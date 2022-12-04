@@ -1,0 +1,8 @@
+C:\Users\Korisnik\source\repos\linqSintaksa\linqSintaksa\bin\Debug\linqSintaksa.exe.config
+C:\Users\Korisnik\source\repos\linqSintaksa\linqSintaksa\bin\Debug\linqSintaksa.exe
+C:\Users\Korisnik\source\repos\linqSintaksa\linqSintaksa\bin\Debug\linqSintaksa.pdb
+C:\Users\Korisnik\source\repos\linqSintaksa\linqSintaksa\obj\Debug\linqSintaksa.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\linqSintaksa\linqSintaksa\obj\Debug\linqSintaksa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\source\repos\linqSintaksa\linqSintaksa\obj\Debug\linqSintaksa.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\linqSintaksa\linqSintaksa\obj\Debug\linqSintaksa.exe
+C:\Users\Korisnik\source\repos\linqSintaksa\linqSintaksa\obj\Debug\linqSintaksa.pdb
